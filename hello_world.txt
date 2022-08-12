@@ -1,0 +1,2 @@
+This is a file I made with "touch hello_world.txt"
+I then opened everything with "code ."
